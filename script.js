@@ -1,5 +1,5 @@
 const products=[
-{id:'cupcake',name:'Cupcakes',category:'cupcakes',price:50,display:'₱40–₱60 each',image:'assets/cupcakes.jpeg',desc:'Freshly baked cupcakes for everyday treats and celebrations.'},
+{id:'cupcake',name:'Cupcakes',category:'cupcakes',price:50,display:'₱40–₱60 each',image:'hero-cupcakes.jpeg',desc:'Freshly baked cupcakes for everyday treats and celebrations.'},
 {id:'loaf',name:'Loaf Bread',category:'pastries',price:100,display:'₱80–₱120',image:'assets/storefront-day.png',desc:'Homemade loaf bread baked fresh with quality ingredients.'},
 {id:'simple',name:'Simple Cake',category:'cakes',price:800,display:'From ₱800',image:'assets/hero-cakes.jpeg',desc:'A small customized cake with a simple, elegant design.'},
 {id:'standard',name:'Standard Decorated Cake',category:'cakes',price:1200,display:'₱1,200',image:'assets/hero-cakes.jpeg',desc:'A decorated 1kg cake for birthdays and special occasions.'},
